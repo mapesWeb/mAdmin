@@ -1,4 +1,4 @@
-# Jadmin
+# mAdmin
 
 By 100regret for mapesWeb
 
